@@ -1,0 +1,6 @@
+{
+  "name": "AEGIS Intelligence",
+  "description": "Adaptive Executive General Intelligence System for real-time sensor monitoring, multi-jurisdiction criminal tracking, RBAC security, and threat matrix analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
